@@ -63,3 +63,18 @@ div {
     }
     
 }
+
+a {
+    color: #bfbfbf;
+    background-color: #747474;
+    text-align: center;
+    font-family: monospace;
+    border-width: 700px;
+    font-size: 12pt;
+}
+
+.switchDuck {
+    background-color: #bfbfbf;
+    color: #747474;
+    height: 3rem;
+}
